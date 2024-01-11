@@ -1,0 +1,6 @@
+@KeyedDIService.API_HostAddress = http://localhost:5118
+
+GET {{KeyedDIService.API_HostAddress}}/processData/
+Accept: application/json
+
+###
